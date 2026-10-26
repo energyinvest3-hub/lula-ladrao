@@ -1,9 +1,0 @@
-{
-  "name": "kit-vitoria-site",
-  "version": "1.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node server.js",
-    "test": "node --test tests/*.test.js"
-  }
-}
